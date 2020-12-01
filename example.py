@@ -17,7 +17,6 @@ if __name__ == '__main__':
     iters = 2
     threshold = 25
     order = 2
-
     print("Initializing...")
     now = time()
     init()
